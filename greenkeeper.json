@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "07-TaskSaver/package.json",
+        "08-Wishes/Solved/package.json",
+        "09-DayPlanner/package.json",
+        "10-WatchList/Solved/package.json"
+      ]
+    }
+  }
+}
